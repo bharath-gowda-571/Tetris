@@ -36,18 +36,6 @@ upcoming_shapes={
                     "Z":pygame.image.load(os.path.join("resources","shapes","Z.png"))
 }
 
-# Buttons
-# down_button=pygame.image.load(os.path.join("resources","buttons","Down_Button.png"))
-# esc_button=pygame.image.load(os.path.join("resources","buttons","Esc_Button.png"))
-# Left_button=pygame.image.load(os.path.join("resources","buttons","Left_Button.png"))
-# # p_button=pygame.image.load(os.path.join("resources","buttons","P_Button.png"))
-# r_button=pygame.image.load(os.path .join("resources","buttons","R_button.png"))
-# right_button=pygame.image.load(os.path.join("resources","buttons","Right_Button.png"))
-# space_button=pygame.image.load(os.path.join("resources","buttons","Space_Button.png"))
-# up_button=pygame.image.load(os.path.join("resources","buttons","Up_Button.png"))
-
-
-
 score=0
 level=1
 game_saved=False
